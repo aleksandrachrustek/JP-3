@@ -1,2 +1,2 @@
 # JP-semestr-3
-Wszystkie zadania z laboratorium języki programowania w 3 semestrze.
+Repozytorium zawiera wszystkie zadania laboratoryjne z kursu Języki Programowania, PWr, ITE sem.3
